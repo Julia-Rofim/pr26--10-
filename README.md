@@ -133,4 +133,4 @@ docker compose start tasks_1
 
 ![alt text](docs/image-7.png)
 
-![alt text](image.png)
+![alt text](gifs/miau-cat.gif)
